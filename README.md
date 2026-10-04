@@ -1,7 +1,7 @@
 # SogBox v2.6 🇮🇷
 
 <p align="center">
-  <strong>یک جعبهابزار چندمنظوره و مدرن برای اندروید</strong><br>
+  <strong>یک جعبه ابزار چندمنظوره و مدرن برای اندروید</strong><br>
   <sub>Wireless • Network • Bluetooth • BLE • IR • NFC • Media</sub>
 </p>
 
